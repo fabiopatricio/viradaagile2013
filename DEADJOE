@@ -21,3 +21,9 @@ Primeiro commit
 #	new file:   spfc.txt
 #
 :q!
+
+*** These modified files were found in JOE when it aborted on Mon Jun 24 11:03:18 2013
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+.git/COMMIT_EDITMSG
