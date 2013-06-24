@@ -1,0 +1,23 @@
+
+*** These modified files were found in JOE when it aborted on Mon Jun 24 10:32:07 2013
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+.git/COMMIT_EDITMSG
+
+*** File '.git/COMMIT_EDITMSG'
+Primeiro commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   palmeiras.txt
+#	new file:   spfc.txt
+#
+:q!
